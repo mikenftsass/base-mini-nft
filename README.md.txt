@@ -43,7 +43,9 @@ You can verify the contract on [BaseScan](https://basescan.org):
 
 
 
+- **Deployer Wallet:** [0xefb5bd3fd9942932147464c1db543391bfbb4a17](https://basescan.org/address/0xefb5bd3fd9942932147464c1db543391bfbb4a17)
 
 ---
+
 
 
